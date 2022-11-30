@@ -1,4 +1,4 @@
-# Modify-WebSpher-PMI-counter-ITCAM
+# Modify-WebSphere-PMI-counter-ITCAM
 
 This scripts sets the WebSphere StatistikSet to Custom and set specific counter or it sets the StatiskicSet back to Basic
 
